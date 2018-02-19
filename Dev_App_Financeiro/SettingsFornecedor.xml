@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Fornecedor InitialRow="1" LastColumn="15" Sheet="0">
+  <Apelido IsKey="True" Column="0"></Apelido>
+  <CNPJCPFLivre Column="9"></CNPJCPFLivre>
+  <Nome Column="1"></Nome>
+  <Apelido Column="0"></Apelido>
+  <Logradouro Column="4"></Logradouro>
+  <Complemento Column="5"></Complemento>
+  <Municipio Column="13"></Municipio>
+  <InscricaoEstadual Column="15"></InscricaoEstadual>
+  <InscricaoMunicipal Column="8"></InscricaoMunicipal>
+  <CodigoPais Column="3"></CodigoPais>
+  <UF Column="14"></UF>
+</Fornecedor>

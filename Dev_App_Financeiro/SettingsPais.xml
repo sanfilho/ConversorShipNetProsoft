@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Pais InitialRow="1" LastColumn="2" Sheet="0">
+  <Sigla Column="0"></Sigla>
+  <Nome Column="1"></Nome>
+  <Codigo Column="2"></Codigo>
+</Pais>

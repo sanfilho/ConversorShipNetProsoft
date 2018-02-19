@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Movimentacao InitialRow="4" LastColumn ="31" Sheet="0" ContaGeralDebito="04411" ContaCompensacao="99999" ContaGeralCredito="04412" ContaDeParaOrigem="70520,70521,70522" ContaDeParaDestino="70501" HistoricoCompensacao="COMPENSAÇÃO DE MOVIMENTAÇÕES COM MAIS DE 200 LANÇAMENTOS">
+  <NumeroDocumento IsKey="True" Column="4"></NumeroDocumento>
+  <DataEscrituracao Column="10"></DataEscrituracao>
+  <CodigoAcesso Column="31"></CodigoAcesso>
+  <Terceiro Column="11"></Terceiro>
+  <Navio Column="15"></Navio>
+  <Departamento Column="16"></Departamento>
+  <Valor Column="7"></Valor>
+  <Historico Column="5"></Historico>
+</Movimentacao>
+
+
+
+<!--<?xml version="1.0" encoding="utf-8" ?>
+<Movimentacao InitialRow="1">
+  <NumeroDocumento IsKey="True" Column="3"></NumeroDocumento>
+  <DataEscrituracao Column="9"></DataEscrituracao>
+  <CodigoAcesso Column="29"></CodigoAcesso>
+  <Terceiro Column="10"></Terceiro>
+  <Navio Column="14"></Navio>
+  <Departamento Column="15"></Departamento>
+  <Valor Column="6"></Valor>
+  <Historico Column="4"></Historico>
+</Movimentacao>-->

@@ -1,0 +1,10 @@
+﻿Regras para importação de registros
+ 
+Regra 1) Crédito
+	Contas dos grupos 1 – Ativo e 2 – Passivo estão configuradas para não permitir relacionamento com centros de custos;
+	Contas dos grupos 1 – Ativo e 2 – Passivo estão configuradas para permitir opcionalmente relacionamento com terceiros, ou seja, o código do terceiro pode ser relacionado ou não. 
+ 
+Regra 2) Débito
+	Contas dos grupos 3 – Receitas e 4 – Despesas estão configuradas para permitir opcionalmente relacionamento com centros de custos, ou seja, o código do centro de custo pode ser relacionado ou não.    
+    Contas dos grupos 3 – Receitas e 4 – Despesas estão configuradas para não permitir relacionamento com terceiros;
+
