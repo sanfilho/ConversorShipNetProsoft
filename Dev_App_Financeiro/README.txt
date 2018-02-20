@@ -76,6 +76,12 @@
 		"InitialRow" - define o número da linha inicial de leitura da planilha;
 		"LastColumn" - define o número da última coluna com dados na planilha;e
 		"Sheet" - define o número da aba que contém as informações.
+		"ContaGeralDebito" - define qual a conta de DÉBITO padrão quando não for encontrada a conta
+		"ContaCompensacao" - define qual a conta utilizada para compensar os registros de L2 quando houver mais de 200 lançamentos
+		"ContaGeralCredito" - define qual a conta de CRÉDITO padrão quando não for encontrada a conta
+		"ContaDeParaOrigem" - define quais contas devem ser substituídas pela "ContaDeParaDestino"
+		"ContaDeParaDestino" - define a conta substituta das "ContaDeParaOrigem"
+		"HistoricoCompensacao" - define o texto dos registros das contas de compensação para L2 quando houver mais de 200 lançamentos
 
 		A partir da 3ª linha são definidos os campos que devem ser informados e sua posição na planilha:
 		"NumeroDocumento" - Código da movimentação que será utilizado para identificação e aglomeração de lançamentos em LC1 e LC2;
